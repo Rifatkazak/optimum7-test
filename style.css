@@ -33,6 +33,7 @@ body{
 .list-item{
     margin-right:0.8rem;
     color: #919EAB;
+    cursor: pointer;
 }
 .nav-top-right, .nav-middle-right {
     display: flex;
@@ -41,7 +42,8 @@ body{
 }
 .list-item-right{
     margin-left: 1.1rem;
-    color:#637381
+    color:#637381;
+    cursor: pointer;
 }
 .nav-bottom-container {
     height:100vh;
@@ -92,6 +94,7 @@ body{
 
   .nav-middle-item{
     padding:0.5rem;
+    cursor: pointer;
   }
   .nav-middle-logo{
     margin-right:3rem;
@@ -111,6 +114,7 @@ body{
     padding:1rem;
     position: relative;
     color:#919EAB;
+    cursor: pointer;
 }
 
   .nav-middle-chart-number{
@@ -134,10 +138,12 @@ body{
     margin-right:1rem;
     display: flex;
     list-style: none;
+    cursor: pointer;
 }
 .nav-bottom-right-item{
     padding:0.7rem;
     color:#161D25;
+    
 }
 .phone-icon{
     margin-right:0.5rem;
